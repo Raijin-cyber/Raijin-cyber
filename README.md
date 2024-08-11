@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Raijin-cyber
-- 👀 I’m interested in Full Stack Development 
+- 👀 I’m interested in Full Stack Development, DSA 
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on with Google
 - 📫 My email.id- ujjwalsharma2562005@gmail.com
