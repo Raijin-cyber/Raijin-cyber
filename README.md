@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Raijin-cyber
-- 👀 I’m interested in Full Stack Development, DSA 
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Software Development Engineering, DSA 
+- 🌱 I’m currently practicing Data Structure and Algorithms
 - 💞️ I’m looking to collaborate on with Google
 - 📫 My email.id- ujjwalsharma2562005@gmail.com
 - 😄 Pronouns: He/Him
