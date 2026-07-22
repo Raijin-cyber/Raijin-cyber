@@ -1,32 +1,67 @@
-# 👋 Hi, I'm Ujjwal Sharma (@Raijin-cyber)
+# Hi, I'm Ujjwal Sharma 👋
 
-## 🚀 About Me
-Aspiring Software Development Engineer with a strong foundation in **Data Structures & Algorithms (DSA)** and hands-on experience building full-stack applications using the **MERN stack**. I’m passionate about solving real-world problems through clean, efficient code and intuitive design.
+### Software Developer focused on building real-world web applications.
 
-## 👀 Interests
-- Software Development Engineering
-- Competitive Programming & DSA
-- Full-Stack Web Development (MongoDB, Express.js, React, Node.js)
+I enjoy turning ideas into functional software and understanding how systems work under the hood — from user interfaces and APIs to databases, authentication, real-time communication, and deployment.
 
-## 🌱 Currently Practicing
-- Advanced DSA techniques and problem-solving strategies
-- Building dynamic, responsive web apps with modern UI libraries
-- Backend architecture, API integration, and deployment workflows
+## What I Work With
 
-## 💼 Collaboration Goals
-Actively seeking opportunities to collaborate with innovative teams—especially at **Google**—where I can contribute meaningfully and grow alongside world-class engineers.
+**Full Stack Framework**
 
-## 📫 Contact
-- 📧 Email: ujjwalsharma2562005@gmail.com  
-- 🌐 Portfolio: [ujjwalportfolio-dusky.vercel.app](https://ujjwalportfolio-dusky.vercel.app)
+* Next.js
 
-## 😄 Pronouns
-He/Him
+**Frontend**
 
-## ⚡ Fun Fact
-I can sit at my desk for hours, fully immersed in learning and creating—from debugging algorithms to designing sleek interfaces. Curiosity and caffeine keep me going.
+* React
+* JavaScript
+* TypeScript
+* Redux Toolkit
+* Tailwind CSS
 
-<!---
-Raijin-cyber/Raijin-cyber is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Backend**
+
+* Node.js
+* Express.js
+* REST APIs
+* WebSockets / Socket.IO
+
+**Databases & Infrastructure**
+
+* MongoDB
+* PostgreSQL
+* Redis
+* Docker
+
+**Tools**
+
+* OTEL
+* Winston and Morgan
+* Kafka
+* Linux
+* AI Agents
+  
+## Selected Projects
+
+### ORBI
+
+A real-time messaging application built with React, Node.js, Express, MongoDB, Redis, and Socket.IO.
+
+### Plantera
+
+A social platform for plant enthusiasts built with modern full-stack technologies.
+
+## How I Approach Software
+
+* Build real applications, not just tutorials.
+* Understand the systems behind the abstractions.
+* Prefer simple, maintainable solutions.
+* Learn through debugging real problems.
+* Continuously improve through building and shipping.
+
+## Currently
+
+Building, learning, and becoming a better software developer one problem at a time.
+
+---
+
+📫 Feel free to explore my repositories and connect with me on my social links
